@@ -1,12 +1,4 @@
 # works
-Windows Server 2019        Network PacketTracer
-AD_DS                      LAN
-DHCP                       Static routing
-DNS                        RIP V2 Routing
-HTTP                       VLAN
-MDT                        Subnetting
-DFS
-FAILOVER
-GPO
-RAIDS
-IIS
+Windows Server 2019  AD_DS  DHCP  DNS  HTTP  MDT  DFS  FAILOVER  GPO  RAIDS  IIS
+
+Network PacketTracer  LAN  Static routing   RIP V2 Routing  VLAN  Subnetting
